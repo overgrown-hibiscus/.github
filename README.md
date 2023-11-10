@@ -1,0 +1,3 @@
+# You're not supposed to be here yet! Here be dragons!
+This whole thing is still in development. Sorry but you're gonna have to wait.
+I assume that I'm not gonna update this repository until the project is in at least a somewhat usable state? So if you care enough, following this repo might be a good way to get notified...
